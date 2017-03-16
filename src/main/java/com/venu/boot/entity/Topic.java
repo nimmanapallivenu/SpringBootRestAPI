@@ -1,4 +1,4 @@
-package com.aspiresys.boot.entity;
+package com.venu.boot.entity;
 
 public class Topic {
 

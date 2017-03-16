@@ -1,4 +1,4 @@
-package com.aspiresys.boot.service.impl;
+package com.venu.boot.service.impl;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -6,8 +6,8 @@ import java.util.List;
 
 import org.springframework.stereotype.Service;
 
-import com.aspiresys.boot.entity.Topic;
-import com.aspiresys.boot.service.TopicService;
+import com.venu.boot.entity.Topic;
+import com.venu.boot.service.TopicService;
 
 @Service
 public class TopicServiceImpl implements TopicService {

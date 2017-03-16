@@ -1,4 +1,4 @@
-package com.aspiresys.boot.controller;
+package com.venu.boot.controller;
 
 import java.util.List;
 
@@ -9,8 +9,8 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.aspiresys.boot.entity.Topic;
-import com.aspiresys.boot.service.TopicService;
+import com.venu.boot.entity.Topic;
+import com.venu.boot.service.TopicService;
 
 /**
  * @author venu.nimmanapalli

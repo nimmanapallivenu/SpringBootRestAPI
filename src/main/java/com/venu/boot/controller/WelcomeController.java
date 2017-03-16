@@ -1,4 +1,4 @@
-package com.aspiresys.boot.controller;
+package com.venu.boot.controller;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;

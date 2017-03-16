@@ -1,8 +1,8 @@
-package com.aspiresys.boot.service;
+package com.venu.boot.service;
 
 import java.util.List;
 
-import com.aspiresys.boot.entity.Topic;
+import com.venu.boot.entity.Topic;
 
 public interface TopicService {
 
